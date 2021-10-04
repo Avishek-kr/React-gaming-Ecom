@@ -17,16 +17,19 @@ export default function ProductList() {
 }
 
 function ProductItem({product}) {
-  const {category, name, sku, price, image, description, description_long, currency} = product
+  const {category,background, name, sku, price, image, description, description_long, currency} = product
   return (
     <div className="p-4 md:w-1/3">
-      <div className="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
+      <div className=" h-full border-2 border-gray-800 rounded-lg overflow-hidden">
+      <div className="image_container">
        <Link to={`/${product.id}`}><img
-          className="lg:h-96 md:h-36 w-full object-contain object-center"
+          className="lg:h-96 md:h-36 w-full object-contain object-center" 
+          style={{backgroundImage:product.background}}
           src={image}
           alt={name}
         />
         </Link>
+      </div>
         
         <div className="p-6">
           <h2 className="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">

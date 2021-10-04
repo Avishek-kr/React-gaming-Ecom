@@ -8,6 +8,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Far_cry_6_cover.jpg",
     "description": "Play as Dani Rojas, a local Yaran and become a guerrilla fighter to liberate the nation.",
     "description_long": "Welcome to Yara, a tropical paradise frozen in time. As the dictator of Yara, Anton Castillo is intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps. Their ruthless oppression has ignited a revolution.",
+    "background": "linear-gradient(#109276, #b41a0e)",
     "currency": "USD"
   },
   {
@@ -19,6 +20,7 @@
     "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2818/4xjRkRmOm9wklCdSWXVMaXBi.png",
     "description": "Ghostrunner is a first-person action SLASHER game with slick parkour-inspired gameplay elements.",
     "description_long": "Ghostrunner is a first-person action SLASHER game with slick parkour-inspired gameplay elements. Players, assume the role of an android ninja and use a combination of abilities and melee katana combat to slice foes as they ascend treacherous neon cyberpunk skyscrapers of the future. Players havea wide range of movement abilities, including wall running, sliding, and time manipulation to eliminate all targets in their way. The result is an extremely agile character providing players ultimate satisfaction with each potent swing of a katana. (superhuman blade fighter).",
+    "background": "linear-gradient(#ffffff,#d41a3e)",
     "currency": "USD"
   },
   {
@@ -30,6 +32,7 @@
     "image": "https://image.api.playstation.com/vulcan/img/rnd/202109/0711/Ll6cMbKafPkcFD80tuy0BDGA.png",
     "description": "Powered by Football™, EA SPORTS™ FIFA 22 on PlayStation 5 and Xbox Series X|S.",
     "description_long": "Powered by Football™, EA SPORTS™ FIFA 22 on PlayStation 5 and Xbox Series X|S moves the game forward with groundbreaking next-gen HyperMotion gameplay technology that elevates every moment on the pitch. HyperMotion integrates advanced full-team mocap data and machine learning to heighten gameplay in every match in FIFA 22, harnessing the power of next generation consoles to deliver the most realistic, responsive and fluid gameplay experience we’ve ever built.",
+    "background": "linear-gradient(#a3b7d7,#5f803e )",
     "currency": "USD"
   },
   {
@@ -41,6 +44,7 @@
     "image": "https://s3.gaming-cdn.com/images/products/9071/orig/fifa-22-pc-game-origin-cover.jpg",
     "description": "Powered by Football™, EA SPORTS™ FIFA 22 brings the game even closer to the real thing with fundamental gameplay advances and a new season of innovation across every mode.",
     "description_long": "Powered by Football™, EA SPORTS™ FIFA 22 brings the game even closer to the real thing with fundamental gameplay advances and a new season of innovation across every mode. New gameplay features in FIFA 22 give you more consistency between the posts with a goalkeeper rewrite that brings more composure to the most important position on the pitch, alongside new ball physics, explosive sprint that better matches the acceleration of the game’s quickest players, and new attacking tactics that let you take control of how your team plays.",
+    "background": "linear-gradient(#708bbb, #fce5d8 )",
     "currency": "USD"
   },
   {
@@ -52,6 +56,7 @@
     "image": "https://image.api.playstation.com/cdn/EP0001/CUSA04294_00/4SWTZZ2ZXqYC6aYF71kmtXkZuOPFCrB8.png",
     "description": "Use hacking as a weapon in the massive & dynamic open world of Watch Dogs 2.",
     "description_long": "Watch_dogs® 2 Use hacking as a weapon in the massive & dynamic open world of Watch Dogs 2. In 2016, ctOS 2.0, an advanced operating system networking city infrastructure, was implemented in several US cities to create a safer, more efficient metropolis. Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area.",
+    "background": "linear-gradient(#4f689a,#756f6d)",
     "currency": "USD"
   },
   {
@@ -63,6 +68,7 @@
     "image": "https://doomwiki.org/w/images/5/5c/Doom_3_cover_front.jpg",
     "description": "A massive demonic invasion has overwhelmed the Union Aerospace Corporation’s (UAC) Mars Research Facility, leaving only chaos and horror in its wake.",
     "description_long": "A massive demonic invasion has overwhelmed the Union Aerospace Corporation’s (UAC) Mars Research Facility, leaving only chaos and horror in its wake. As one of only a few survivors, you must fight your way to hell and back against a horde of evil monsters. The path is dark and dangerous, but you’ll have an array of weapons–including a pistol, a chainsaw, grenades, and more–to use for protection.",
+    "background": "linear-gradient(#130000,#a98e5f)",
     "currency": "USD"
   }
 ]
