@@ -1,3 +1,4 @@
+import ProductList from "../components/ProductList";
 import React from "react";
 
 export default function Home() {
@@ -6,17 +7,17 @@ export default function Home() {
       <div className="container px-5 py-24 mx-auto">
         <div className="text-center mb-20">
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-white mb-4">
-            E-Commerce App with Complete Shopping Cart
+            Hey, I am Avishek 🖐, Check Out New Stuff Here. 🚀
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-400 text-opacity-80">
-            A full-stack ecommerce app made with a Create-React-App client and
-            Node API, using Stripe to process payments.
-          </p>
+            So, this is a full stack project in which we will see products buying with the help of backend Node js and Stripe. I hope you like it. 🤞          </p>
           <div className="flex mt-6 justify-center">
             <div className="w-16 h-1 rounded-full bg-indigo-500 inline-flex" />
           </div>
         </div>
-        <div className="flex flex-wrap -m-4">Products</div>
+        <div className="flex flex-wrap -m-4">
+          <ProductList />
+        </div>
       </div>
     </section>
   );
